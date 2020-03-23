@@ -2,4 +2,5 @@
 #10DaysMLChallenge
 
 #Day1 Visualization:
-![Image of Day 1 Visualization](https://github.com/Roman-kazi/10DaysMLChallenge/blob/master/gitML.png)
+
+![Image of Day 1 Visualization](https://github.com/Roman-kazi/10DaysMLChallenge/blob/master/webML.png)
