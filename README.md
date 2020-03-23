@@ -2,4 +2,4 @@
 #10DaysMLChallenge
 
 #Day1 Visualization:
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Day 1 Visualization](https://github.com/Roman-kazi/10DaysMLChallenge/blob/master/gitML.png)
