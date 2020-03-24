@@ -1,6 +1,4 @@
 # 10DaysMLChallenge
 #10DaysMLChallenge
 
-#Day1 Visualization:
-
-![Image of Day 1 Visualization](https://github.com/Roman-kazi/10DaysMLChallenge/blob/master/webML.png)
+Source code can be found in the ![jupyter-notebook](https://github.com/Roman-kazi/10DaysMLChallenge/tree/master/jupyter-notebook) directory and Visualization in the ![visualization](https://github.com/Roman-kazi/10DaysMLChallenge/tree/master/visualization) directory
